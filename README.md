@@ -3,3 +3,5 @@
 设计：成果、夏瑞  
 主界面负责人：陈亮  
 目前已完成主界面总体框架设计与实现 ✅
+
+演示网页：https://liangchen-sjtu.github.io/aigc-platform-frontend/
